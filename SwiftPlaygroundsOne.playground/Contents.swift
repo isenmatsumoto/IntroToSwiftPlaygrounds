@@ -26,3 +26,9 @@ mySixthVariable = "I've created my sixth variable"
 var myFourthVariableassign = myFourthVariable + myFifthVariable + mySixthVariable
 print(myFourthVariableassign)
 
+// Assignment #2 Introduction to True and False
+var appState = false
+print(appState)
+var numberOne = 5
+var numberTwo = 7
+var comparison = numberOne > numberTwo
