@@ -32,3 +32,15 @@ print(appState)
 var numberOne = 5
 var numberTwo = 7
 var comparison = numberOne > numberTwo
+
+// Part #7
+var mySeventhVaraible: String
+mySeventhVaraible = "I've created my seventh variable"
+
+var myEigthVariable: String
+myEigthVariable = "I've created my eigth variable"
+
+var result = mySeventhVaraible == myEigthVariable
+print(result)
+
+
